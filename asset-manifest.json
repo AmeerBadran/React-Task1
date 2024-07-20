@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Task1/static/css/main.577673d5.css",
+    "main.js": "/React-Task1/static/js/main.8a2a5cbe.js",
+    "static/media/image4.svg": "/React-Task1/static/media/image4.15c49eb08c63b9e7586c176b2b3efa78.svg",
+    "static/media/image1.svg": "/React-Task1/static/media/image1.11fcf8c4b525ab02b9ed8e44bdf47e3d.svg",
+    "static/media/image2.svg": "/React-Task1/static/media/image2.ba73695d8d8dee98ff999d7e697bc377.svg",
+    "static/media/image3.svg": "/React-Task1/static/media/image3.366f631a4d4c49c4c76abd253742d8da.svg",
+    "static/media/image5.svg": "/React-Task1/static/media/image5.9c116aa42d1118f3c3076b1bb27a0130.svg",
+    "static/media/icon1.svg": "/React-Task1/static/media/icon1.d53e5bb22c6684fc049933f2bdf786b5.svg",
+    "index.html": "/React-Task1/index.html",
+    "main.577673d5.css.map": "/React-Task1/static/css/main.577673d5.css.map",
+    "main.8a2a5cbe.js.map": "/React-Task1/static/js/main.8a2a5cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.577673d5.css",
+    "static/js/main.8a2a5cbe.js"
+  ]
+}
